@@ -1,0 +1,22 @@
+career,skills
+Machine Learning Engineer,python machine-learning statistics data-analysis tensorflow scikit-learn pandas numpy
+Data Scientist,python statistics sql machine-learning pandas numpy data-visualization
+AI Engineer,python deep-learning machine-learning neural-networks tensorflow pytorch computer-vision
+Data Analyst,excel sql python powerbi tableau statistics data-cleaning
+Business Analyst,excel sql powerbi communication analytics reporting
+Web Developer,html css javascript react nodejs bootstrap git
+Frontend Developer,html css javascript react typescript ui-ux
+Backend Developer,python django flask sql api database
+Full Stack Developer,html css javascript react nodejs python sql
+Cloud Engineer,aws azure linux networking docker kubernetes python
+DevOps Engineer,linux docker kubernetes aws ci-cd scripting
+Cybersecurity Analyst,networking security linux ethical-hacking python penetration-testing
+Software Engineer,java python dsa oop database problem-solving
+Mobile App Developer,flutter dart android ios firebase ui-design
+NLP Engineer,python nlp transformers huggingface deep-learning pytorch
+Computer Vision Engineer,python opencv deep-learning tensorflow image-processing
+AI Researcher,python mathematics deep-learning research pytorch transformers
+Database Administrator,sql mysql postgresql database backup optimization
+Game Developer,unity csharp game-design programming debugging
+Blockchain Developer,solidity ethereum smart-contracts web3 javascript
+
